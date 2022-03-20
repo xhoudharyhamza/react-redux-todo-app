@@ -1,4 +1,4 @@
-# Expense Tracker App in React
+# React Redux Todo App
 
 Create a todo app in react by using redux. As we know that redux is a javaScript state management library that we mostly used with react to manage the components state.
 Read More about [Redux](https://redux.js.org/)
